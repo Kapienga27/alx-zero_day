@@ -1,3 +1,2 @@
-echo "ALX School is open!"
-echo "ALX School is open!"
 #!/bin/bash
+echo "School"
